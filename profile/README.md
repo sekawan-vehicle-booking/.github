@@ -54,11 +54,13 @@ git clone https://github.com/sekawan-vehicle-booking/app-client.git
 Open and run Backend
 
 ```
+npm install
 npm run start:dev
 ```
 
 Open and run Frontend
 
 ```
+npm install
 npm run dev
 ```
