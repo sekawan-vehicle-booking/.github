@@ -30,12 +30,12 @@
 
 ## Physical Data Modeling (PDM)
 
-![PDM](../assets/sekawan_pdm.png)
+![PDM](https://res.cloudinary.com/dvncokkpe/image/upload/v1713768786/sekawan_pdm_hyilvw.png)
 [Link](https://dbdiagram.io/d/sekawan_pdm-662286b603593b6b6172a011)
 
 ## Activity Diagram
 
-![Activity Diagram](../assets/activity%20diagram.png)
+![Activity Diagram](https://res.cloudinary.com/dvncokkpe/image/upload/v1713768785/activity_diagram_oafcpw.png)
 
 ## Panduan Penggunaan Aplikasi
 
